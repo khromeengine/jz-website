@@ -1,0 +1,25 @@
+.page-body {
+    background-color: gainsboro;
+    align-self: center;
+}
+
+.navigation-bar {
+    background-color: white;
+    font-size: small;
+    display: block;
+}
+
+.list-bar {
+    background-color: gray;
+    list-style-type: none;
+    justify-content: center;
+}
+
+.list-bar > li {
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+    background-color: yellow;
+    min-width: 10%;
+    min-height: 5%;
+}
